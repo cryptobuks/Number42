@@ -1,0 +1,5 @@
+Number42-qt usr/bin
+share/pixmaps/Number4232.xpm usr/share/pixmaps
+share/pixmaps/Number4280.xpm usr/share/pixmaps
+debian/Number42-qt.desktop usr/share/applications
+debian/Number42-qt.protocol usr/share/kde4/services/

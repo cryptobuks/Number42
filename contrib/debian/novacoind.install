@@ -1,0 +1,2 @@
+debian/bin/Number42d usr/bin
+src/Number42d usr/lib/Number42

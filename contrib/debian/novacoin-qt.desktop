@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Number42
+Comment=Number42 P2P Cryptocurrency
+Comment[ru]=Number42, P2P криптовалюта
+Comment[fr]=Number42, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Number42, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Number42-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/Number4280.xpm
+MimeType=x-scheme-handler/Number42;
+Categories=Office;
